@@ -1,2 +1,4 @@
-# 36A-Javaclass
-This is Java class
+#36A-Javaclass
+36A Git for java class
+
+New information for this git repo
